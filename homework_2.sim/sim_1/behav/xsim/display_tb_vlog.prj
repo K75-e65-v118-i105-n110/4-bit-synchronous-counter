@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../homework_2.srcs/sources_1/new/decoder_seg7.v" \
+"../../../../homework_2.srcs/sources_1/new/display.v" \
+"../../../../homework_2.srcs/sources_1/new/hex_to_dec.v" \
+"../../../../homework_2.srcs/sources_1/new/scan.v" \
+"../../../../homework_2.srcs/sim_1/new/display_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,19 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/FPGA/homework_2/homework_2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/CTRDIV16_tb.v,1791551253,verilog,,,,CTRDIV16_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/cp_div_tb.v,1791962976,verilog,,,,cp_div_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/decoder_seg7_tb.v,1792223600,verilog,,,,decoder_seg7_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/display_tb.v,1791968182,verilog,,,,display_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/hex_to_dec_tb.v,1791967421,verilog,,,,hex_to_dec_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/scan_tb.v,1792224397,verilog,,,,scan_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sim_1/new/top_module_tb.v,1792051755,verilog,,,,top_module_tb,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/CTRDIV16.v,1791966669,verilog,,D:/FPGA/homework_2/homework_2.srcs/sources_1/new/cp_div.v,,CTRDIV16,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/cp_div.v,1791962724,verilog,,D:/FPGA/homework_2/homework_2.srcs/sources_1/new/decoder_seg7.v,,cp_div,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/decoder_seg7.v,1791965995,verilog,,D:/FPGA/homework_2/homework_2.srcs/sources_1/new/display.v,,decoder_seg7,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/display.v,1792059051,verilog,,D:/FPGA/homework_2/homework_2.srcs/sources_1/new/hex_to_dec.v,,display,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/hex_to_dec.v,1792058350,verilog,,D:/FPGA/homework_2/homework_2.srcs/sim_1/new/hex_to_dec_tb.v,,hex_to_dec,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/scan.v,1792062866,verilog,,D:/FPGA/homework_2/homework_2.srcs/sources_1/new/top_module.v,,scan,,,,,,,,
+D:/FPGA/homework_2/homework_2.srcs/sources_1/new/top_module.v,1792051605,verilog,,D:/FPGA/homework_2/homework_2.srcs/sim_1/new/top_module_tb.v,,top_module,,,,,,,,
